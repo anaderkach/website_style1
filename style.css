@@ -1,0 +1,72 @@
+body {
+    background-color: #E7ECEF;
+    margin: 0 10%;
+
+}
+div.container {
+    border-top: solid gray ;
+    margin-bottom: 30px;
+    
+    
+}
+div.color-scheme {
+    margin: 10px 20px;
+    display: inline-block;
+    width: 25%;
+    padding: 5px ;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.dark {
+    background-color: #274C77;
+    color: #E7ECEF;
+}
+.air {
+    background-color: #6096BA;
+    color: #E7ECEF;
+}
+.uran {
+    background-color: #A3CEF1;
+    color: #274C77;
+}
+div.font-style {
+    display: inline-block;
+    width: 30%;
+    padding: 2px 10px;
+    text-align: center;
+    
+}
+div.text-style {
+    margin-bottom: 10px;
+    border-bottom: 2px solid gray;
+}
+.montserrat {
+    font-family: "Montserrat";
+}
+.bold {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
+  
+.ephesis {
+    font-family: "Ephesis";
+    font-size: 25px;
+}
+  h1{
+    font-family: "Montserrat";
+    text-align: center;
+  }
+  h2 {
+    font-family: "Ephesis";
+    font-size: 40px;
+    color: #274C77;
+  }
+  p {
+    font-family: "Lexend";
+  }
+  li {
+    font-family: "Lexend";
+  }
